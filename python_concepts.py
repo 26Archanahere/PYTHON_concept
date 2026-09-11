@@ -328,3 +328,22 @@ while(i<=200):
 #code 3
 print("Code 3")
 
+i=10
+while(i>0):
+   print(i,end=",")
+   i=i-1
+
+new_line()
+
+#code 4
+print("Code 4")
+
+i=4
+fact=1
+while(i>0):
+    fact=fact*i
+    i=i-1
+print(fact)
+
+
+#code 5
